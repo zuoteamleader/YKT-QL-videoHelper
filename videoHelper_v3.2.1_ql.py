@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 # version 6.1_ql
-# developed by zk chen
-# https://github.com/xrervip/AutoYuketangforHIT
-# 优化 ZTL
+# BY ZTL
 import random
 import time
 import requests
