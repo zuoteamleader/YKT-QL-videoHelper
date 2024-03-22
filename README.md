@@ -1,5 +1,5 @@
 # YKT-QL-videoHelper / 雨课堂刷视频脚本-青龙版
-<h1>雨课堂-ppt自动播放</h1>
+<h1>雨课堂刷视频脚本-青龙版</h1>
 <h3>功能：</h3>
 <p>支持定时自动刷视频，并记录日志。</p>
 <p>本脚本遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0协议</a>。</p>
